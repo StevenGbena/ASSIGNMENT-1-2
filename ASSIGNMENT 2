@@ -1,0 +1,5 @@
+year=int(input("enter year of birth"))
+if year < 2005:
+    print("you are above 18,you can vote")
+else:
+    print("you are below 18,you can't vote")    
